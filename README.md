@@ -5,4 +5,7 @@ Small Project I did with Neta. We wanted to find a photo filter and then do a vi
 ### Instructions
 In the "if __name__ == '__main__':" section, just change the path to your file 
 and in the name enter your file name:
-![alt text](https://github.com/yuval5000l/Filtering-Photos-to-Video/tree/master/img.png?raw=true)
+![Alt text](relative%20/img.jpg?raw=true "Title")
+![Alt text](https://github.com/yuval5000l/Filtering-Photos-to-Video/tree/master/img.png?raw=true)
+![alt text](https://github.com/yuval5000l/Filtering-Photos-to-Video/tree/master/img.png?raw=false)
+
