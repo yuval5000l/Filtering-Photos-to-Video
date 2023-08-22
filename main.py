@@ -81,6 +81,6 @@ def make_video_from_scratch(_path, _name):
 
 
 if __name__ == '__main__':
-    path = "OurPhoto\\"
-    name = "1.jpeg"
+    path = "example_images\\"
+    name = "car.jpg"
     make_video_from_scratch(path, name)
