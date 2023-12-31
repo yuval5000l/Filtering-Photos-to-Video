@@ -7,7 +7,9 @@ For example, if we take that photo:
 We wanted to make a "pencil filter", like this one:
 ![pencil2_car](https://github.com/yuval5000l/Filtering-Photos-to-Video/assets/63983348/8ddad1bb-436d-4b72-887d-23c61f0e6403)
 
-And then, make a video that does a transition that starts with the "pencil filter" to the original image: 
+And then, make a video that does a transition that starts with the "pencil filter" to the original image: https://github.com/yuval5000l/Filtering-Photos-to-Video/assets/63983348/58761b51-94ff-4709-93b3-0f6a46f1c4d6
+
+
 
 ### Instructions
 In the "if __name__ == '__main__':" section, just change the path to your file 
