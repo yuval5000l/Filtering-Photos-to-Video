@@ -8,7 +8,7 @@ We wanted to make a "pencil filter", like this one:
 ![pencil2_car](https://github.com/yuval5000l/Filtering-Photos-to-Video/assets/63983348/8ddad1bb-436d-4b72-887d-23c61f0e6403)
 
 And then, make a video that does a transition that starts with the "pencil filter" to the original image: 
-![car jpg](https://github.com/yuval5000l/Filtering-Photos-to-Video/assets/63983348/439a4066-4022-4997-bd6f-c08f69120a99)
+![car jpg](https://github.com/yuval5000l/Filtering-Photos-to-Video/assets/63983348/439a4066-4022-4997-bd6f-c08f69120a99) (The quality is much better, but in order to see it on git I converted it to gif and it downgraded the quality of the pictures)
 
 
 
